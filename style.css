@@ -37,3 +37,10 @@ nav ul li a{
     color: #333;
     font-weight: 400;
 }
+
+.login-btn{
+    text-decoration: none;
+    color: #333;
+    margin-right: 15px;
+    font-weight: 400;
+}
