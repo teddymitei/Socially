@@ -13,6 +13,7 @@
     background-size: cover;
     padding: 10px 10%;
     overflow: hidden;
+    position: relative;
 }
 
 nav{
@@ -79,4 +80,11 @@ nav ul li a{
 
 .btn:hover{
     border-top-right-radius: 30px;
+}
+
+.feature-img{
+    width: 430px;
+    position: absolute;
+    bottom: 0;
+    right: 10%;
 }
